@@ -1,0 +1,15 @@
+# Compiled object files
+*.o
+
+# Static and shared libraries generated during builds
+*.a
+
+# Compiled example programs
+bisection
+trapezoidal
+euler
+rk4
+simpsons
+newton_rapson
+monte_carlo
+
