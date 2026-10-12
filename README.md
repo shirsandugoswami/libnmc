@@ -40,7 +40,7 @@ The project is being developed as part of my exploration of numerical analysis, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/libnmc.git
+git clone https://github.com/shirsandugoswami/libnmc.git
 cd libnmc
 ```
 
